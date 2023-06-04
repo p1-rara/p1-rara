@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @p1-rara
+- 👋 Hi, I’m @Pankaj Kumar
 - 👀 I’m interested in Algorithms
 
 
