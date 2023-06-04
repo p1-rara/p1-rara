@@ -1,8 +1,2 @@
 - 👋 Hi, I’m @Pankaj Kumar
-- 👀 I’m interested in Algorithms
-
-
-<!---
-p1-rara/p1-rara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Checkout My personal account at https://github.com/PankajKumar9
